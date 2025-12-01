@@ -231,6 +231,12 @@ export const slideData: SlideContent[] = [
         description: 'Ficha de actividad para practicar el conteo y coloreado de objetos con temática navideña.',
         downloadUrl: 'https://benune.github.io/home/materials/colorea_cantidad_correcta.pdf',
       },
+      {
+        title: 'Agenda Temprana',
+        author: 'Leire Buzunáriz Yárnoz',
+        description: 'Pictogramas.',
+        downloadUrl: 'https://benune.github.io/home/materials/agenda_temprana.pdf',
+      },
     ],
   },
 ];
